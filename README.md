@@ -43,14 +43,6 @@
 
 ---
 
-## 📚 Projets en vedette
-
-- 🎫 [Système de Billetterie en ligne pour Stades](https://github.com/TonDepot/Billetterie)
-- 🩺 [Gestion de visites médicales et pharmacie](https://github.com/TonDepot/GestionVisites)
-- 🏬 [Dashboard de suivi de stock par magasin](https://github.com/TonDepot/StocksDashboard)
-
----
-
 ## 🧠 Citation
 
 > "Chaque ligne de code est une opportunité d'amélioration." - Salah
@@ -65,17 +57,12 @@
 
 ---
 
-## 🚀 Petit bonus visuel
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 - 📧 Email : *[aithammousalah0@gmail.com]*
+  <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  </p>
 
 ---
 
