@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Salah!
 
-<!--
-**Salahait11/Salahait11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a passionate **Software Developer** from Morocco, currently focused on backend development and web technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m working on PHP projects using the MVC architecture.
+- 🌱 I’m currently deepening my skills in **Web Development**, **Networks**, and **Database Systems**.
+- 📚 Always learning new technologies to improve my professional skills.
+- 🌍 Based in **Mohammedia, Morocco**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, SQL, HTML, CSS
+- **Frameworks & Tools:** MVC Architecture, MySQL, Git, Bootstrap
+- **Others:** Linux (Fedora), Windows, XAMPP
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salah&show_icons=true&theme=radical" alt="Salah's GitHub stats"/>
+</p>
+
+## 📫 How to reach me
+- 📧 Email: *aithammousalah0@gmail.com* (à compléter si tu veux)
+
+---
+
+> "Code, learn, grow."
+
