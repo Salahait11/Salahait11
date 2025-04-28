@@ -2,20 +2,23 @@
 
 🎓 Développeur web et logiciel passionné, spécialisé dans le **développement backend** et l'architecture **MVC**.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Backend;Expert+Laravel+et+Flask;Java+SE%2FEE+et+Jakarta+EE;Optimisation+avec+l'IA;Linux+et+Gestion+de+projets" alt="Typing SVG" />
+</p>
+
 - 🔭 Actuellement, je travaille sur des projets en **PHP (Laravel)**, **C# (.NET/ASP.NET)**, **Java SE & Jakarta EE**, et **Flask**.
-- 🌱 J'améliore en continu mes compétences en **backend**, **bases de données**, **administration Linux**, et **optimisation par l'IA**.
-- 🤖 J'utilise l'intelligence artificielle pour optimiser mes projets, accélérer le développement et améliorer la qualité du code.
-- 🚀 J'ai une approche structurée basée sur l'**analyse des besoins** et le **développement organisé**.
+- 🌱 J'améliore en continu mes compétences en **backend**, **bases de données**, **Linux**, et **optimisation IA**.
+- 🤖 J'utilise l'intelligence artificielle pour accélérer et améliorer mes projets.
+- 🚀 J'ai une approche structurée basée sur l'**analyse des besoins** et l'**architecture logicielle**.
 - 📍 Localisation : **Mohammedia, Maroc**
 
 ## 🛠️ Compétences Techniques
 
 - **Langages** : PHP, C#, Java SE/EE, Python (Flask), SQL, HTML, CSS, JavaScript
-- **Frameworks et Outils** : Laravel, ASP.NET, Jakarta EE, Flask, Maven
+- **Frameworks** : Laravel, ASP.NET, Jakarta EE, Flask, Maven
 - **Bases de données** : MySQL, SQL Server
 - **Environnements** : Linux (Fedora), Windows, Git, XAMPP
-- **Méthodologies** : MVC, Analyse des besoins, Concepts réseaux
-- **Optimisation** : Utilisation de l'intelligence artificielle (IA) pour l'assistance au développement
+- **Optimisation** : Utilisation de l'IA pour l'assistance au développement
 
 ## 📈 Statistiques GitHub
 
