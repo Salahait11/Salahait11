@@ -1,70 +1,144 @@
-# 👋 Salut, je suis Salah !
-
-🎓 Développeur web et logiciel passionné, spécialisé dans le **développement backend**, l'**optimisation IA** et l'**architecture MVC**.
+<h1 align="center">Hi 👋 I'm Salah Ait Hammou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=1000&lines=D%C3%A9veloppeur+Backend;Expert+Laravel+et+Flask;Java+SE%2FEE+et+Jakarta+EE;Optimisation+avec+l'IA;Linux+et+Gestion+de+projets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Laravel+•+React+•+DevOps+•+Linux;Building+scalable+web+applications;Designing+custom+ERP+solutions&font=Fira+Code&center=true&width=450&height=45&duration=4000&pause=1000&color=F59E0B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Salahait11&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## ✨ À propos de moi
-
-- 🔭 Je travaille sur des projets en **PHP (Laravel)**, **C# (.NET/ASP.NET)**, **Java SE/Jakarta EE**, et **Flask**.
-- 🧠 J'utilise l'**IA** pour optimiser mon développement et mes analyses.
-- 🐧 À l'aise avec les environnements **Linux** (Fedora) et **Windows**.
-- 🚀 Passionné par l'optimisation de code, la qualité logicielle, et l'apprentissage continu.
-- 📍 Basé à **Mohammedia, Maroc**.
+Passionate Full Stack Developer from Morocco focused on building scalable web applications, ERP solutions and modern SaaS platforms. Bridging the gap between software development and DevOps practices to deliver high-quality, automated production environments.
 
 ---
 
-## 🛡️ Mes Compétences
+## About Me
 
-![PHP](https://img.shields.io/badge/PHP-Backend-informational?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Framework-red?style=flat&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Backend-blue?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Framework-purple?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Backend-orange?style=flat&logo=openjdk&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/JakartaEE-Enterprise-informational?style=flat&logo=jakartaee&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Python-black?style=flat&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Command_Line-yellow?style=flat&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-Build_Tool-red?style=flat&logo=apachemaven&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=mysql&logoColor=white)
+- 💻 Working as a **Junior IT / Support & DevOps Engineer** at **CELESTEK** (BMCI BNP Paribas project).
+- 💻 Experienced in designing and implementing robust APIs and enterprise-grade backend systems.
+- 💻 Practical knowledge in containerization, system automation, and Linux server management.
 
----
+### Experience
+- **Junior IT / Support & DevOps Engineer** at CELESTEK (BMCI BNP Paribas project) — *2026 – Present*
+- **Freelance Full Stack Developer** (ERP & Web Applications) — *2024 – 2026*
 
-## 🖥️ Stack technique préféré
-
-- **Backend** : PHP (Laravel), C# (.NET), Java EE (Jakarta EE), Flask
-- **Frontend** : HTML, CSS, JavaScript
-- **Base de données** : MySQL, SQL Server
-- **Outils de travail** : Git, Maven, XAMPP, Fedora
-- **Optimisation** : Développement assisté par **Intelligence Artificielle**
+### Education
+- **Bachelor's Degree in Full Stack Development & DevOps** — FSAC Ain Chock, Casablanca (2025 – 2026)
+- **Specialized Associate Degree in Software Development** — IGIC Mohammedia (2023 – 2025)
 
 ---
 
-## 🧠 Citation
+## Technologies
 
-> "Chaque ligne de code est une opportunité d'amélioration." - Salah
+### Frontend
+[![My Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,bootstrap,tailwind)](https://skillicons.dev)
+
+### Backend
+[![My Backend Skills](https://skillicons.dev/icons?i=php,laravel,symfony)](https://skillicons.dev)
+
+### Database
+[![My Database Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+
+### DevOps
+[![My DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,git)](https://skillicons.dev)
 
 ---
 
-## 📈 Statistiques GitHub
+## Main Projects
+
+### 🚀 LOGYXA (ERP System)
+
+A custom enterprise resource planning (ERP) system designed specifically for a maritime transport company in Morocco. It automates day-to-day logistics and internal management.
+
+- **Technologies**: PHP, Laravel, MySQL, Docker, Git.
+- **Key Features**:
+  - Auto-calculates payroll in accordance with Moroccan CNSS regulations.
+  - Fleet Management & TMS (Transport Management System) to schedule and monitor routes.
+  - Generates Moroccan tax compliance files and VAT reports.
+  - Built-in immutable Audit Trail system tracking sensitive user actions.
+
+---
+
+### 🚀 KPISMART (Performance Dashboard)
+
+A commercial performance monitoring application providing real-time analytics and tracking indicators for business teams.
+
+- **Technologies**: PHP, Laravel, React, SQL Server.
+- **Key Features**:
+  - Dynamic real-time KPI graphs and sales team reporting.
+  - Structured product references, catalog indexing, and customer data management.
+  - Custom script optimizing SQL query execution time and page-load latency.
+
+---
+
+### 🚀 MediCare (Hospital Management System)
+
+A secure clinical workspace built to streamline hospital workflows, schedule appointments, and coordinate doctor schedules.
+
+- **Technologies**: Java, Spring Boot, React, MySQL, Docker.
+- **Key Features**:
+  - Multi-tier user authorization (Administrators, Doctors, Patients).
+  - High-performance patient records search and indexing.
+  - Automatic doctor availability mapping and appointment slots reservations.
+
+---
+
+### 🚀 MaFacture Pro (Billing SaaS)
+
+A subscription billing SaaS platform tailored to simplify invoicing, quotations, and client bookkeeping for local companies.
+
+- **Technologies**: PHP, Laravel, React, PostgreSQL.
+- **Key Features**:
+  - Standardized PDF invoices and price quotes compilation.
+  - Direct payment reminders and client balances tracking.
+  - Auto-computes transaction taxes and monthly billing summaries.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salahait11&show_icons=true&theme=radical" alt="Statistiques GitHub de Salah" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Salahait11&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Salahait11&theme=radical" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahait11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Me contacter
+## 📊 GitHub Activity
 
-- 📧 Email : *[aithammousalah0@gmail.com]*
-  <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salahait11&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-> **Optimiser, créer, innover avec passion et intelligence.**
+## Certifications
 
+- **Meta Front-End Developer Professional Certificate** — Coursera
+- **Google IT Automation with Python Professional Certificate** — Coursera
+- **Cisco Networking Essentials** — Cisco Networking Academy
+
+---
+
+## Goals
+
+Currently focused on expanding skills in:
+- 🚀 Cloud infrastructure (AWS / GCP)
+- 🚀 Container orchestration with Kubernetes (K8s)
+- 🚀 Building resilient Microservices architectures
+- 🚀 Integrating Generative AI APIs into SaaS platforms
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration or opportunities!
+
+- **Email**: [aithammousalah0@gmail.com](mailto:aithammousalah0@gmail.com)
+- **LinkedIn**: [Salah Ait Hammou](https://linkedin.com/in/salah-ait-hammou-a10b48226)
+- **WhatsApp**: [+212 610 186 414](https://wa.me/212610186414)
