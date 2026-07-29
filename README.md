@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Salah Ait Hammou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Laravel+•+React+•+DevOps+•+Linux;Building+scalable+web+applications;Designing+custom+ERP+solutions&font=Fira+Code&center=true&width=450&height=45&duration=4000&pause=1000&color=F59E0B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Laravel+|+React+|+DevOps+|+Linux;Building+scalable+web+applications;Designing+custom+ERP+solutions&amp;font=Fira+Code&amp;center=true&amp;width=450&amp;height=45&amp;duration=4000&amp;pause=1000&amp;color=F59E0B" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Salahait11&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Salahait11&amp;color=blue&amp;style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -100,11 +100,11 @@ A subscription billing SaaS platform tailored to simplify invoicing, quotations,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salahait11&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Salahait11&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Salahait11&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Salahait11&amp;theme=radical" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahait11&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salahait11&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ A subscription billing SaaS platform tailored to simplify invoicing, quotations,
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salahait11&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salahait11&amp;theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
